@@ -1,0 +1,5 @@
+name: Animamorphacandy
+main: me.perotin.animamorphacandy.Animamorphacandy
+author: Perotin
+version: 1.0-SNAPSHOT
+description: A plugin that when player's eat food, they turn into a mob!

@@ -1,0 +1,21 @@
+# Animamorphacandy
+# Percentages are out of 100 (50 would be a 50% chance, 20 would be 20% etc)
+# List possible potion effects per food using this 
+# https://hub.spigotmc.org/javadocs/spigot/org/bukkit/potion/PotionEffectType.html
+# Disguises are here
+# https://www.spigotmc.org/wiki/lib-s-disguises-creating-a-disguise/#disguise-types
+# Food keys are here
+# https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
+
+
+
+PORK:
+   is-adult: true
+   percentage: 50
+   potion-effects:
+   - REGENERATION
+   - SPEED
+   - HEAL
+   mob-to-turn-into: PIG
+   time-to-undisguise: 60
+   # in seconds
